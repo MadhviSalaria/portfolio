@@ -1,0 +1,34 @@
+Madhvi Salaria
+Aspiring Software Developer | Passionate about Java, DBMS & Problem Solving
+
+Email: anub6217@gmail.com
+Phone: +91 98764 37729
+LinkedIn: https://www.linkedin.com/in/madhvisalaria1/
+GitHub: https://github.com/MadhviSalaria
+
+Professional Summary
+Computer Science undergraduate graduating in 2027 with strong foundations in Java, data structures, algorithms, DBMS, SQL, and web technologies. Interested in scalable software systems, backend engineering, and solving real-world problems.
+
+Education
+Bachelor of Engineering in Computer Science
+Chandigarh University | 2023 - 2027
+CGPA: 8.35/10
+
+Experience
+Java Trainee
+Chandigarh University | May 2025 - June 2025
+- Worked on core Java concepts including OOP, exception handling, and collections
+- Strengthened problem-solving through practical assignments
+- Implemented JDBC-based CRUD operations and debugging workflows
+
+Projects
+Educolink
+- Built a multi-tenant interactive learning platform
+- Used React, Node.js, MongoDB, Socket.IO, JWT, and Docker
+
+Multi-Tenant SaaS Dashboard
+- Built a secure admin dashboard with RBAC and JWT auth
+- Used React, Express, MongoDB, and Docker
+
+Skills
+Java, C++, JavaScript, SQL, React, Node.js, Express, MongoDB, MySQL, Oracle, Docker, Socket.IO, JWT
